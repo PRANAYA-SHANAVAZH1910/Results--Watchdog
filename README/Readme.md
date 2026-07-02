@@ -142,3 +142,5 @@ To change the schedule window or interval, edit the `start`, `end`, and `INTERVA
 ## Notes on responsible use
 
 Running many automated logins in a short window (e.g. every 2 minutes) significantly increases the chance of triggering the portal's CAPTCHA or rate-limiting protections. A 1–2 hour interval is a reasonable balance between responsiveness and not hammering the login system unnecessarily.
+
+DISCLAIMER:This project automates login to PESU Academy's portal for personal use. Running this against your own account is your responsibility — check PESU's terms of service before using it, and don't use it against accounts that aren't yours.
