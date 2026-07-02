@@ -1,3 +1,4 @@
+                                                                                                                                                                                © 2026 Pranaya Shanavazh. All rights reserved.
 # PESU Results Watchdog
 
 An automated Playwright bot that logs into the PESU Academy portal, checks your ESA (End Semester Assessment) results, and texts you the moment they're published — so you don't have to keep refreshing the page yourself.
